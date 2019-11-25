@@ -2,6 +2,7 @@
   "name": "lecture_5",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://strynzha.github.io/lecture_5/",
   "dependencies": {
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
