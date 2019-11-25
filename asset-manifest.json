@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lecture_5/static/css/main.b100e6da.chunk.css",
+    "main.js": "/lecture_5/static/js/main.5d8cdcda.chunk.js",
+    "main.js.map": "/lecture_5/static/js/main.5d8cdcda.chunk.js.map",
+    "runtime-main.js": "/lecture_5/static/js/runtime-main.1e8422a0.js",
+    "runtime-main.js.map": "/lecture_5/static/js/runtime-main.1e8422a0.js.map",
+    "static/js/2.55654d8b.chunk.js": "/lecture_5/static/js/2.55654d8b.chunk.js",
+    "static/js/2.55654d8b.chunk.js.map": "/lecture_5/static/js/2.55654d8b.chunk.js.map",
+    "index.html": "/lecture_5/index.html",
+    "precache-manifest.a93e8d8051e41113034c09d46dc8a02e.js": "/lecture_5/precache-manifest.a93e8d8051e41113034c09d46dc8a02e.js",
+    "service-worker.js": "/lecture_5/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/lecture_5/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/lecture_5/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e8422a0.js",
+    "static/js/2.55654d8b.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.5d8cdcda.chunk.js"
+  ]
+}
